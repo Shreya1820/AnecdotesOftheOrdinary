@@ -144,13 +144,14 @@
 }
 @media(max-width:600px){
   
+   
   
   
-  .footer .inner_footer{
+  .footer .inner_footer .menu-bar .sub-menu-1 #birds{
     width:90%;
   }
 
-  .inner_footer .logo_container,
+  .inner_footer .logo_container .logo .sub-menu-1 #birds,
   .inner_footer .footer_third{
     width:100%;
     margin-bottom:30px;
